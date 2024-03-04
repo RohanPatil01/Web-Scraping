@@ -12,21 +12,21 @@ Always respect website terms of service and practice responsible scraping to avo
 
 ## Folders 📂
 
-### 1. [Flipkart's Smartphones📱](Flipkart's-Smartphones)
+### 1. [Flipkart's Smartphones📱](/Flipkart's%20Smartphones📱)
 
 - Contains scripts and data related to scraping smartphone information from Flipkart.
 
   - 📝 `flipkart_smartphones_scraping.ipynb`: Jupyter Notebook containing the code for scraping smartphone data.
   - 💾 `smartphones_data.csv`: Scraped data file containing details of smartphones.
 
-### 2. [Flipkart's Speakers 🔊](Flipkart's-Speakers)
+### 2. [Flipkart's Speakers 🔊](/Flipkart's%20Speakers%20🔊)
 
 - Contains scripts and data related to scraping speaker information from Flipkart.
 
   - 📝 `flipkart_speakers_scraping.ipynb`: Jupyter Notebook containing the code for scraping speaker data.
   - 💾 `speakers_data.csv`: Scraped data file containing details of speakers.
 
-### 3. [Pokemon Details 🐾](Pokemon-Details)
+### 3. [Pokemon Details 🐾](/Pokemon%20Details%20🐾)
 
 - Contains scripts and data related to scraping Pokemon details.
 
